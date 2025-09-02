@@ -1,4 +1,5 @@
 • Technology Used: Python, Deep Learning (ResUNet)
+
 • Description: Developed a ResUNet-based segmentation 
 model with Dice loss to detect liver tumors from CT 
 scans, automating image analysis to improve accuracy 
