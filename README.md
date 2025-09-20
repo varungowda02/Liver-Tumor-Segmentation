@@ -36,5 +36,5 @@ Additionally, a **confusion matrix analysis** provides detailed insights into th
 
 ### Contribution
 
-This research contributes to the advancement of **medical image segmentation techniques**, offering clinicians a valuable tool for the **accurate detection and delineation of liver tumors**.
+This research contributes to the advancement of **medical image segmentation techniques**, offering clinicians a valuable tool for the **accurate detection and delineation of liver tumors**. 
 
